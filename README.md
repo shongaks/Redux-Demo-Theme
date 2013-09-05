@@ -10,7 +10,7 @@ If you can, please donate to help support the ongoing development of Redux Frame
 
 ## Stay In The Loop! ##
 
-[![Follow us on Twitter](http://iod.unh.edu/Images/Twitter_follow_us.png "Follow us on Twitter")](https://www.twitter.com/ReduxFramework)
+[![Follow us on Twitter](http://reduxframework.com/wp-content/uploads/2013/09/twitter.png "Follow us on Twitter")](https://www.twitter.com/ReduxFramework)
 
 ## Getting Redux Demo Theme ##
 
